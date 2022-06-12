@@ -8,3 +8,6 @@ package-lock.json
 # OS
 .DS_Store
 .env
+
+# Project
+.idea
