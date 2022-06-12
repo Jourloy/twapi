@@ -1,0 +1,10 @@
+# Build
+dist
+node_modules
+
+# NPM
+package-lock.json
+
+# OS
+.DS_Store
+.env
